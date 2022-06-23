@@ -32,6 +32,12 @@ from IPython.display import display,SVG
 display(SVG('<svg height="100"><circle cx="50" cy="50" r="40"/></svg>'))
 ```
 
+
+    
+![svg](docs/images/output_7_0.svg)
+    
+
+
 ```
 assert say_hello("Jeremy")=="Hello Jeremy!"
 ```
