@@ -1,5 +1,5 @@
-# Project name here
-> Summary description here.
+# Kichen
+> This project is an attempt to build AI enabled application for NLP Malayalam Text processing.
 
 
 This file will become your README and also the index of your documentation.
