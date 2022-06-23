@@ -6,19 +6,20 @@ This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install kitchenpy`
 
 ## How to use
 
 Fill me in please! Don't forget code examples:
 
+```python
+o = HelloSayer("Alexis")
+o.say()
 ```
-1+1
-```
 
 
 
 
-    2
+    'Hello Alexis!'
 
 
