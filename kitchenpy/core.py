@@ -7,6 +7,7 @@ def say_hello(to):
     "Say hello to somebody"
     return f'Hello {to}!'
 
+# Cell
 class HelloSayer:
     "Say hello to `to` using `say_hello`"
     def __init__(self, to): self.to = to
